@@ -14,6 +14,16 @@ action-cam mounts, buzzer holders and more.
 Print the parts in TPU. The frontends are also provided as STEP files so you can modify them.
 Thumbnail renders can be regenerated with `python tools/render_thumbnails.py`.
 
+## Recommended Accessory Sets
+
+Pick the accessories matching your VTX build. Either ViFly finder size works — choose the
+Finder 2 or Finder Mini holder in the listed orientation.
+
+| Build | Recommended accessories |
+| --- | --- |
+| **O3** | [Cap & RX Holder](parts/rx_holders/Shard_Cap_RX_Holder.stl) · ViFly finder holder, forwards: [Finder 2](parts/finders/Shard_ViFly_Finder_2_Holder_Forwards.stl) or [Finder Mini](parts/finders/Shard_ViFly_Finder_Mini_Holder_Forwards.stl) |
+| **O4 Pro** | [RX Holder](parts/rx_holders/Shard_RX_Holder.stl) · ViFly finder holder, sideways: [Finder 2](parts/finders/Shard_ViFly_Finder_2_Holder_Sideways.stl) or [Finder Mini](parts/finders/Shard_ViFly_Finder_Mini_Holder_Sideways.stl) · [Cap & TVS Holder](parts/misc/Shard_Cap_TVS_Holder.stl) |
+
 ## Arm Bumpers
 
 | Preview | Part | Files |
@@ -36,6 +46,7 @@ Thumbnail renders can be regenerated with `python tools/render_thumbnails.py`.
 | :---: | --- | --- |
 | <a href="parts/vtx/o4_pro/Shard_VTX_Holder_O4_Pro.stl"><img src="renders/Shard_VTX_Holder_O4_Pro.png" width="160" alt="Shard VTX Holder O4 Pro"></a> | VTX Holder | [STL](parts/vtx/o4_pro/Shard_VTX_Holder_O4_Pro.stl) |
 | <a href="parts/vtx/o4_pro/Shard_Frontend_O4_Pro_25deg.stl"><img src="renders/Shard_Frontend_O4_Pro.png" width="160" alt="Shard Frontend O4 Pro"></a> | Frontend (camera mount) | STL: [20°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_20deg.stl) · [25°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_25deg.stl) · [30°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_30deg.stl)<br>STEP: [20°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_20deg.step) · [25°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_25deg.step) · [30°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_30deg.step) |
+| <a href="parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_25deg.stl"><img src="renders/Shard_Frontend_O4_Pro_Itsfpv.png" width="160" alt="Shard Frontend O4 Pro Itsfpv"></a> | Frontend (Itsfpv camera mount) | STL: [20°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_20deg.stl) · [25°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_25deg.stl) · [30°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_30deg.stl)<br>STEP: [20°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_20deg.step) · [25°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_25deg.step) · [30°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_30deg.step) |
 
 ## Action Cams
 
@@ -66,6 +77,7 @@ Thumbnail renders can be regenerated with `python tools/render_thumbnails.py`.
 | Preview | Part | Files |
 | :---: | --- | --- |
 | <a href="parts/misc/Shard_Antenna_Backpack.stl"><img src="renders/Shard_Antenna_Backpack.png" width="160" alt="Shard Antenna Backpack"></a> | Antenna Backpack | [STL](parts/misc/Shard_Antenna_Backpack.stl) |
+| <a href="parts/misc/Shard_Cap_TVS_Holder.stl"><img src="renders/Shard_Cap_TVS_Holder.png" width="160" alt="Shard Cap TVS Holder"></a> | Cap & TVS Holder | [STL](parts/misc/Shard_Cap_TVS_Holder.stl) |
 | <a href="parts/misc/Shard_Crystal_Horn.stl"><img src="renders/Shard_Crystal_Horn.png" width="160" alt="Shard Crystal Horn"></a> | Crystal Horn | [STL](parts/misc/Shard_Crystal_Horn.stl) |
 | <a href="parts/misc/Shard_Rear_Bumper.stl"><img src="renders/Shard_Rear_Bumper.png" width="160" alt="Shard Rear Bumper"></a> | Rear Bumper | [STL](parts/misc/Shard_Rear_Bumper.stl) |
 | <a href="parts/misc/Shard_XTLock.stl"><img src="renders/Shard_XTLock.png" width="160" alt="Shard XTLock"></a> | XTLock | [STL](parts/misc/Shard_XTLock.stl) |
