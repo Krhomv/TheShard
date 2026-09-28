@@ -48,6 +48,12 @@ Finder 2 or Finder Mini holder in the listed orientation.
 | <a href="parts/vtx/o4_pro/Shard_Frontend_O4_Pro_25deg.stl"><img src="renders/Shard_Frontend_O4_Pro.png" width="160" alt="Shard Frontend O4 Pro"></a> | Frontend (camera mount) | STL: [20°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_20deg.stl) · [25°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_25deg.stl) · [30°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_30deg.stl)<br>STEP: [20°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_20deg.step) · [25°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_25deg.step) · [30°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_30deg.step) |
 | <a href="parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_25deg.stl"><img src="renders/Shard_Frontend_O4_Pro_Itsfpv.png" width="160" alt="Shard Frontend O4 Pro Itsfpv"></a> | Frontend (Itsfpv camera mount) | STL: [20°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_20deg.stl) · [25°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_25deg.stl) · [30°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_30deg.stl)<br>STEP: [20°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_20deg.step) · [25°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_25deg.step) · [30°](parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_30deg.step) |
 
+### Analog
+
+| Preview | Part | Files |
+| :---: | --- | --- |
+| <a href="parts/vtx/analog/Shard_Frontend_Analog_25deg.stl"><img src="renders/Shard_Frontend_Analog.png" width="160" alt="Shard Frontend Analog"></a> | Frontend (camera mount) | STL: [20°](parts/vtx/analog/Shard_Frontend_Analog_20deg.stl) · [25°](parts/vtx/analog/Shard_Frontend_Analog_25deg.stl) · [30°](parts/vtx/analog/Shard_Frontend_Analog_30deg.stl)<br>STEP: [20°](parts/vtx/analog/Shard_Frontend_Analog_20deg.step) · [25°](parts/vtx/analog/Shard_Frontend_Analog_25deg.step) · [30°](parts/vtx/analog/Shard_Frontend_Analog_30deg.step) |
+
 ## Action Cams
 
 ### DJI Action 2

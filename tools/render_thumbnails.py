@@ -53,6 +53,7 @@ MANIFEST = {
     "Shard_Frontend_O3": ("parts/vtx/o3/Shard_Frontend_O3_25deg.stl", None),
     "Shard_Frontend_O4_Pro": ("parts/vtx/o4_pro/Shard_Frontend_O4_Pro_25deg.stl", None),
     "Shard_Frontend_O4_Pro_Itsfpv": ("parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_25deg.stl", None),
+    "Shard_Frontend_Analog": ("parts/vtx/analog/Shard_Frontend_Analog_25deg.stl", None),
 }
 
 
