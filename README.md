@@ -78,11 +78,17 @@ Finder 2 or Finder Mini holder in the listed orientation.
 | <a href="parts/rx_holders/Shard_Cap_RX_Holder.stl"><img src="renders/Shard_Cap_RX_Holder.png" width="160" alt="Shard Cap RX Holder"></a> | Cap & RX Holder | [STL](parts/rx_holders/Shard_Cap_RX_Holder.stl) |
 | <a href="parts/rx_holders/Shard_RX_Holder.stl"><img src="renders/Shard_RX_Holder.png" width="160" alt="Shard RX Holder"></a> | RX Holder | [STL](parts/rx_holders/Shard_RX_Holder.stl) |
 
+## Antenna Backpacks
+
+| Preview | Part | Files |
+| :---: | --- | --- |
+| <a href="parts/backpacks/Shard_Antenna_Backpack_Dual_Linear.stl"><img src="renders/Shard_Antenna_Backpack_Dual_Linear.png" width="160" alt="Shard Antenna Backpack Dual Linear"></a> | Antenna Backpack — Dual Linear | [STL](parts/backpacks/Shard_Antenna_Backpack_Dual_Linear.stl) |
+| <a href="parts/backpacks/Shard_Antenna_Backpack_Single_Mushroom.stl"><img src="renders/Shard_Antenna_Backpack_Single_Mushroom.png" width="160" alt="Shard Antenna Backpack Single Mushroom"></a> | Antenna Backpack — Single Mushroom | [STL](parts/backpacks/Shard_Antenna_Backpack_Single_Mushroom.stl) |
+
 ## Misc
 
 | Preview | Part | Files |
 | :---: | --- | --- |
-| <a href="parts/misc/Shard_Antenna_Backpack.stl"><img src="renders/Shard_Antenna_Backpack.png" width="160" alt="Shard Antenna Backpack"></a> | Antenna Backpack | [STL](parts/misc/Shard_Antenna_Backpack.stl) |
 | <a href="parts/misc/Shard_Cap_Holder.stl"><img src="renders/Shard_Cap_Holder.png" width="160" alt="Shard Cap Holder"></a> | Cap Holder | [STL](parts/misc/Shard_Cap_Holder.stl) |
 | <a href="parts/misc/Shard_Crystal_Horn.stl"><img src="renders/Shard_Crystal_Horn.png" width="160" alt="Shard Crystal Horn"></a> | Crystal Horn | [STL](parts/misc/Shard_Crystal_Horn.stl) |
 | <a href="parts/misc/Shard_Rear_Bumper.stl"><img src="renders/Shard_Rear_Bumper.png" width="160" alt="Shard Rear Bumper"></a> | Rear Bumper | [STL](parts/misc/Shard_Rear_Bumper.stl) |

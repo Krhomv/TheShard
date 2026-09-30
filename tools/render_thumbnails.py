@@ -33,7 +33,8 @@ DEFAULT_VIEW = (-60.0, 22.0)
 
 # render name -> (stl path relative to repo root, optional view override)
 MANIFEST = {
-    "Shard_Antenna_Backpack": ("parts/misc/Shard_Antenna_Backpack.stl", None),
+    "Shard_Antenna_Backpack_Dual_Linear": ("parts/backpacks/Shard_Antenna_Backpack_Dual_Linear.stl", None),
+    "Shard_Antenna_Backpack_Single_Mushroom": ("parts/backpacks/Shard_Antenna_Backpack_Single_Mushroom.stl", None),
     "Shard_Arm_Bumper_Crystal": ("parts/arm_bumpers/Shard_Arm_Bumper_Crystal.stl", None),
     "Shard_Arm_Bumper_Lite": ("parts/arm_bumpers/Shard_Arm_Bumper_Lite.stl", None),
     "Shard_Cap_RX_Holder": ("parts/rx_holders/Shard_Cap_RX_Holder.stl", None),
