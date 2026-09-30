@@ -37,7 +37,7 @@ MANIFEST = {
     "Shard_Arm_Bumper_Crystal": ("parts/arm_bumpers/Shard_Arm_Bumper_Crystal.stl", None),
     "Shard_Arm_Bumper_Lite": ("parts/arm_bumpers/Shard_Arm_Bumper_Lite.stl", None),
     "Shard_Cap_RX_Holder": ("parts/rx_holders/Shard_Cap_RX_Holder.stl", None),
-    "Shard_Cap_TVS_Holder": ("parts/misc/Shard_Cap_TVS_Holder.stl", None),
+    "Shard_Cap_Holder": ("parts/misc/Shard_Cap_Holder.stl", None),
     "Shard_Crystal_Horn": ("parts/misc/Shard_Crystal_Horn.stl", None),
     "Shard_Rear_Bumper": ("parts/misc/Shard_Rear_Bumper.stl", None),
     "Shard_RX_Holder": ("parts/rx_holders/Shard_RX_Holder.stl", None),

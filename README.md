@@ -22,7 +22,7 @@ Finder 2 or Finder Mini holder in the listed orientation.
 | Build | Recommended accessories |
 | --- | --- |
 | **O3** | [Cap & RX Holder](parts/rx_holders/Shard_Cap_RX_Holder.stl) · ViFly finder holder, forwards: [Finder 2](parts/finders/Shard_ViFly_Finder_2_Holder_Forwards.stl) or [Finder Mini](parts/finders/Shard_ViFly_Finder_Mini_Holder_Forwards.stl) |
-| **O4 Pro** | [RX Holder](parts/rx_holders/Shard_RX_Holder.stl) · ViFly finder holder, sideways: [Finder 2](parts/finders/Shard_ViFly_Finder_2_Holder_Sideways.stl) or [Finder Mini](parts/finders/Shard_ViFly_Finder_Mini_Holder_Sideways.stl) · [Cap & TVS Holder](parts/misc/Shard_Cap_TVS_Holder.stl) |
+| **O4 Pro** | [RX Holder](parts/rx_holders/Shard_RX_Holder.stl) · ViFly finder holder, sideways: [Finder 2](parts/finders/Shard_ViFly_Finder_2_Holder_Sideways.stl) or [Finder Mini](parts/finders/Shard_ViFly_Finder_Mini_Holder_Sideways.stl) · [Cap Holder](parts/misc/Shard_Cap_Holder.stl) |
 
 ## Arm Bumpers
 
@@ -83,7 +83,7 @@ Finder 2 or Finder Mini holder in the listed orientation.
 | Preview | Part | Files |
 | :---: | --- | --- |
 | <a href="parts/misc/Shard_Antenna_Backpack.stl"><img src="renders/Shard_Antenna_Backpack.png" width="160" alt="Shard Antenna Backpack"></a> | Antenna Backpack | [STL](parts/misc/Shard_Antenna_Backpack.stl) |
-| <a href="parts/misc/Shard_Cap_TVS_Holder.stl"><img src="renders/Shard_Cap_TVS_Holder.png" width="160" alt="Shard Cap TVS Holder"></a> | Cap & TVS Holder | [STL](parts/misc/Shard_Cap_TVS_Holder.stl) |
+| <a href="parts/misc/Shard_Cap_Holder.stl"><img src="renders/Shard_Cap_Holder.png" width="160" alt="Shard Cap Holder"></a> | Cap Holder | [STL](parts/misc/Shard_Cap_Holder.stl) |
 | <a href="parts/misc/Shard_Crystal_Horn.stl"><img src="renders/Shard_Crystal_Horn.png" width="160" alt="Shard Crystal Horn"></a> | Crystal Horn | [STL](parts/misc/Shard_Crystal_Horn.stl) |
 | <a href="parts/misc/Shard_Rear_Bumper.stl"><img src="renders/Shard_Rear_Bumper.png" width="160" alt="Shard Rear Bumper"></a> | Rear Bumper | [STL](parts/misc/Shard_Rear_Bumper.stl) |
 | <a href="parts/misc/Shard_XTLock.stl"><img src="renders/Shard_XTLock.png" width="160" alt="Shard XTLock"></a> | XTLock | [STL](parts/misc/Shard_XTLock.stl) |
