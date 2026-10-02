@@ -49,8 +49,8 @@ MANIFEST = {
     "Shard_VTX_Holder_O3": ("parts/vtx/o3/Shard_VTX_Holder_O3.stl", None),
     "Shard_VTX_Holder_O4_Pro": ("parts/vtx/o4_pro/Shard_VTX_Holder_O4_Pro.stl", None),
     "Shard_XTLock": ("parts/misc/Shard_XTLock.stl", None),
-    "Shard_DJI_Action_2_Mount_25deg": ("parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_25deg.stl", None),
-    # one thumb per frontend family, rendered from the 25deg variant
+    # one thumb per multi-angle family, rendered from the 25deg variant
+    "Shard_DJI_Action_2_Mount": ("parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_25deg.stl", None),
     "Shard_Frontend_O3": ("parts/vtx/o3/Shard_Frontend_O3_25deg.stl", None),
     "Shard_Frontend_O4_Pro": ("parts/vtx/o4_pro/Shard_Frontend_O4_Pro_25deg.stl", None),
     "Shard_Frontend_O4_Pro_Itsfpv": ("parts/vtx/o4_pro/Shard_Frontend_O4_Pro_Itsfpv_25deg.stl", None),

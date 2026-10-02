@@ -11,7 +11,7 @@
 3D-printable TPU parts for **The Shard** bando frame: bumpers, digital-VTX holders and frontends,
 action-cam mounts, buzzer holders and more.
 
-Print the parts in TPU. The frontends are also provided as STEP files so you can modify them.
+Print the parts in TPU. The frontends and the action-cam mount are also provided as STEP files so you can modify them.
 Thumbnail renders can be regenerated with `python tools/render_thumbnails.py`.
 
 ## Recommended Accessory Sets
@@ -60,7 +60,9 @@ Finder 2 or Finder Mini holder in the listed orientation.
 
 | Preview | Part | Files |
 | :---: | --- | --- |
-| <a href="parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_25deg.stl"><img src="renders/Shard_DJI_Action_2_Mount_25deg.png" width="160" alt="Shard DJI Action 2 Mount 25deg"></a> | Camera Mount — 25° | [STL](parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_25deg.stl) |
+| <a href="parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_25deg.stl"><img src="renders/Shard_DJI_Action_2_Mount.png" width="160" alt="Shard DJI Action 2 Mount"></a> | Camera Mount | STL: [20°](parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_20deg.stl) · [25°](parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_25deg.stl) · [30°](parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_30deg.stl)<br>STEP: [20°](parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_20deg.step) · [25°](parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_25deg.step) · [30°](parts/action_cams/dji_action_2/Shard_DJI_Action_2_Mount_30deg.step) |
+
+The mount is designed to take a 36 × 36 mm, 1 mm thick carbon plate at the back as protection.
 
 ## ViFly Finder Mounts
 
