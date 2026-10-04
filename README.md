@@ -79,6 +79,7 @@ The mount is designed to take a 36 × 36 mm, 1 mm thick carbon plate at the back
 | :---: | --- | --- |
 | <a href="parts/rx_holders/Shard_Cap_RX_Holder.stl"><img src="renders/Shard_Cap_RX_Holder.png" width="160" alt="Shard Cap RX Holder"></a> | Cap & RX Holder | [STL](parts/rx_holders/Shard_Cap_RX_Holder.stl) |
 | <a href="parts/rx_holders/Shard_RX_Holder.stl"><img src="renders/Shard_RX_Holder.png" width="160" alt="Shard RX Holder"></a> | RX Holder | [STL](parts/rx_holders/Shard_RX_Holder.stl) |
+| <a href="parts/rx_holders/Shard_RX_Holder_Short.stl"><img src="renders/Shard_RX_Holder_Short.png" width="160" alt="Shard RX Holder Short"></a> | RX Holder — Short | [STL](parts/rx_holders/Shard_RX_Holder_Short.stl) |
 
 ## Antenna Backpacks
 
@@ -92,6 +93,7 @@ The mount is designed to take a 36 × 36 mm, 1 mm thick carbon plate at the back
 | Preview | Part | Files |
 | :---: | --- | --- |
 | <a href="parts/misc/Shard_Cap_Holder.stl"><img src="renders/Shard_Cap_Holder.png" width="160" alt="Shard Cap Holder"></a> | Cap Holder | [STL](parts/misc/Shard_Cap_Holder.stl) |
+| <a href="parts/misc/Shard_FETTEC_TVS_Holder.stl"><img src="renders/Shard_FETTEC_TVS_Holder.png" width="160" alt="Shard FETTEC TVS Holder"></a> | FETTEC TVS Holder | [STL](parts/misc/Shard_FETTEC_TVS_Holder.stl) |
 | <a href="parts/misc/Shard_Crystal_Horn.stl"><img src="renders/Shard_Crystal_Horn.png" width="160" alt="Shard Crystal Horn"></a> | Crystal Horn | [STL](parts/misc/Shard_Crystal_Horn.stl) |
 | <a href="parts/misc/Shard_Rear_Bumper.stl"><img src="renders/Shard_Rear_Bumper.png" width="160" alt="Shard Rear Bumper"></a> | Rear Bumper | [STL](parts/misc/Shard_Rear_Bumper.stl) |
 | <a href="parts/misc/Shard_XTLock.stl"><img src="renders/Shard_XTLock.png" width="160" alt="Shard XTLock"></a> | XTLock | [STL](parts/misc/Shard_XTLock.stl) |

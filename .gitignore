@@ -3,3 +3,4 @@ __pycache__/
 Thumbs.db
 .DS_Store
 .zcode/
+AGENTS.md
